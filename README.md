@@ -21,7 +21,7 @@ category: "design"
 emoji: "😁"
 ```
 
-_cagegory: must be just 1 category_
+_category: must be just 1 category_
 _emoji: converted to Twemoji and used as HeroImage_
 
 ### Custom Blocks
